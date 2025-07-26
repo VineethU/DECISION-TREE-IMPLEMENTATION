@@ -27,3 +27,9 @@ Next, I visualized the decision tree using a plotting function.
 This helped me see how the model makes decisions step by step.
 I also looked at which features were most important in predictions.
 Overall, this task helped me understand how machines can learn and make decisions from data.
+
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/faae69e5-49e6-4881-8624-6d319c537de5)
