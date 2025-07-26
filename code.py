@@ -8,6 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier, plot_tree
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
+
 data = load_iris()
 df = pd.DataFrame(data.data, columns=data.feature_names)
 df['target'] = data.target
