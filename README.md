@@ -33,3 +33,7 @@ Overall, this task helped me understand how machines can learn and make decision
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/faae69e5-49e6-4881-8624-6d319c537de5)
+
+
+
+![Image](https://github.com/user-attachments/assets/a962daa2-da65-4d03-9016-ad60acde2818)
